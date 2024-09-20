@@ -1,13 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="12.17 13.59 95.39 110.54">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="12.17 13.59 95.39 110.54"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="hq_bg-none_border-none.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="16.500814"
+     inkscape:cx="47.694617"
+     inkscape:cy="55.27"
+     inkscape:window-width="3731"
+     inkscape:window-height="2120"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .cls-1,.cls-3,.cls-4{fill:none;stroke:#0fbc2f;stroke-linecap:round;}.cls-1,.cls-3{stroke-linejoin:round;}.cls-1{stroke-width:5.91px;}.cls-2{fill:#0fbc2f;}.cls-3,.cls-4{stroke-width:2.15px;}.cls-4{stroke-miterlimit:10;}
     </style>
   </defs>
-  <g>
-    <path class="cls-2" d="M72.26,41.88l4.16,2.43a1.27,1.27,0,0,1,.6,1.12V75.48a1.3,1.3,0,0,1-.6,1.13l-31.25,18a1.35,1.35,0,0,0,0,2.26L60,105.39a.94.94,0,0,0,1,0l32.72-18.9a1.31,1.31,0,0,0,.61-1.13V56.75c0-.94.85-1.55,1.57-1.13l2.06,1.19c1,.55,2-.64,1.45-1.72L86.15,26.58a1,1,0,0,0-1.71-.32L72,39.84A1.36,1.36,0,0,0,72.26,41.88Z"/>
-    <path class="cls-3" d="M22.83,50.74l9.94,5.85a1.37,1.37,0,0,1,.31,2l-10.25,13"/>
-    <line class="cls-4" x1="40.72" y1="64.39" x2="52.42" y2="57.89"/>
-    <path class="cls-2" d="M106.94,95.3l-7.31-4.2a1,1,0,0,0-1,0L61,112.79a1,1,0,0,1-1,0L32.48,96.92a1.36,1.36,0,0,1,0-2.26l34.7-20a1.35,1.35,0,0,0,0-2.25l-6-3.49a1.31,1.31,0,0,1-.61-1.13V14.86c0-.94-.85-1.55-1.57-1.13L12.77,40.32a1.3,1.3,0,0,0-.6,1.13v54.2a1.27,1.27,0,0,0,.6,1.12L60.05,124a1,1,0,0,0,1,0l45.92-26.44A1.36,1.36,0,0,0,106.94,95.3ZM18.5,79.82V47.65a1.29,1.29,0,0,1,.61-1.13L54.94,26.37a1.11,1.11,0,0,1,1.57,1.13l0,32.44a1.29,1.29,0,0,1-.62,1.14L20.06,81C19.34,81.36,18.5,80.75,18.5,79.82Z"/>
+  <g
+     id="g3"
+     inkscape:label="Logo">
+    <g
+       id="g4"
+       inkscape:label="Laptop">
+      <path
+         class="cls-2"
+         d="M72.26,41.88l4.16,2.43a1.27,1.27,0,0,1,.6,1.12V75.48a1.3,1.3,0,0,1-.6,1.13l-31.25,18a1.35,1.35,0,0,0,0,2.26L60,105.39a.94.94,0,0,0,1,0l32.72-18.9a1.31,1.31,0,0,0,.61-1.13V56.75c0-.94.85-1.55,1.57-1.13l2.06,1.19c1,.55,2-.64,1.45-1.72L86.15,26.58a1,1,0,0,0-1.71-.32L72,39.84A1.36,1.36,0,0,0,72.26,41.88Z"
+         id="path1" />
+      <path
+         class="cls-3"
+         d="M22.83,50.74l9.94,5.85a1.37,1.37,0,0,1,.31,2l-10.25,13"
+         id="path2" />
+      <line
+         class="cls-4"
+         x1="40.72"
+         y1="64.39"
+         x2="52.42"
+         y2="57.89"
+         id="line2" />
+      <path
+         class="cls-2"
+         d="M106.94,95.3l-7.31-4.2a1,1,0,0,0-1,0L61,112.79a1,1,0,0,1-1,0L32.48,96.92a1.36,1.36,0,0,1,0-2.26l34.7-20a1.35,1.35,0,0,0,0-2.25l-6-3.49a1.31,1.31,0,0,1-.61-1.13V14.86c0-.94-.85-1.55-1.57-1.13L12.77,40.32a1.3,1.3,0,0,0-.6,1.13v54.2a1.27,1.27,0,0,0,.6,1.12L60.05,124a1,1,0,0,0,1,0l45.92-26.44A1.36,1.36,0,0,0,106.94,95.3ZM18.5,79.82V47.65a1.29,1.29,0,0,1,.61-1.13L54.94,26.37a1.11,1.11,0,0,1,1.57,1.13l0,32.44a1.29,1.29,0,0,1-.62,1.14L20.06,81C19.34,81.36,18.5,80.75,18.5,79.82Z"
+         id="path3" />
+    </g>
   </g>
 </svg>
