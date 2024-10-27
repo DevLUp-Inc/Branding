@@ -8,7 +8,7 @@
    height="170"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xml:space="preserve"
-   inkscape:export-filename="uf-circle.png"
+   inkscape:export-filename="uf-hexagon.png"
    inkscape:export-xdpi="578.25885"
    inkscape:export-ydpi="578.25885"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -23,15 +23,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.3411765"
-     inkscape:cx="-23.114035"
-     inkscape:cy="94.69298"
+     inkscape:zoom="10.729412"
+     inkscape:cx="68.689692"
+     inkscape:cy="76.239034"
      inkscape:window-width="3731"
      inkscape:window-height="2120"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4" /><defs
+     inkscape:current-layer="svg4" /><defs
      id="defs1"><style
        id="style1">
       .cls-1,.cls-3,.cls-4{fill:none;stroke:#0fbc2f;stroke-linecap:round;}.cls-1,.cls-3{stroke-linejoin:round;}.cls-1{stroke-width:5.91px;}.cls-2{fill:#0fbc2f;}.cls-3,.cls-4{stroke-width:2.15px;}.cls-4{stroke-miterlimit:10;}
@@ -40,8 +40,12 @@
      cy="68.860001"
      r="85"
      id="circle1"
-     inkscape:label="Background"
-     style="fill:#17171d" /><g
+     inkscape:label="Circle Background"
+     style="display:none;fill:#17171d" /><path
+     d="M 60.420543,5.631484 A 4.0383242,4.0383242 0 0 0 58.367808,6.192031 L 7.844371,35.295547 a 5.4675648,5.4675648 0 0 0 -2.541016,4.794922 v 56.958984 a 5.4675648,5.4675648 0 0 0 2.541016,4.796877 l 50.523437,29.10156 a 4.0383242,4.0383242 0 0 0 4.105469,0 l 50.521493,-29.10156 a 5.4579726,5.4579726 0 0 0 2.55273,-4.796877 V 40.051406 a 5.4579726,5.4579726 0 0 0 -2.55273,-4.794922 L 62.473277,6.192031 A 4.0383242,4.0383242 0 0 0 60.420543,5.631484 Z"
+     style="display:inline;fill:#17171d"
+     id="path6"
+     inkscape:label="Hexagon Background" /><g
      id="g4"
      style="display:inline"
      inkscape:label="Logo"><path
@@ -51,7 +55,8 @@
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#ecb245;stroke-opacity:1"
        inkscape:label="Border" /><g
        id="g5"
-       inkscape:label="Laptop"><path
+       inkscape:label="Laptop"
+       style="display:inline"><path
          class="cls-2"
          d="m 72.26,41.88 4.16,2.43 a 1.27,1.27 0 0 1 0.6,1.12 v 30.05 a 1.3,1.3 0 0 1 -0.6,1.13 l -31.25,18 a 1.35,1.35 0 0 0 0,2.26 L 60,105.39 a 0.94,0.94 0 0 0 1,0 l 32.72,-18.9 a 1.31,1.31 0 0 0 0.61,-1.13 V 56.75 c 0,-0.94 0.85,-1.55 1.57,-1.13 l 2.06,1.19 c 1,0.55 2,-0.64 1.45,-1.72 L 86.15,26.58 A 1,1 0 0 0 84.44,26.26 L 72,39.84 a 1.36,1.36 0 0 0 0.26,2.04 z"
          id="path2"
